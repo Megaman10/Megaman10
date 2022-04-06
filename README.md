@@ -1,4 +1,29 @@
-### Hi there 👋
+## ⁍ 𝐏𝐫𝐚𝐣𝐰𝐚𝐥 𝐑𝐚𝐮𝐭
+
+```
+Hey there, My name is Prajwal Raut! 
+```
+
+```
+
+
+#include <stdio.h>
+
+int main()
+{
+
+	// prints hello world
+	printf("Hello World");
+
+	return 0;
+}
+
+```
+
+# Prajwal raut
+## Prajwal raut
+### Prajwal raut
+#### Prajwal raut
 
 <!--
 **Megaman10/Megaman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
